@@ -7,7 +7,7 @@
 2- حفظ الخطوط
 3- تحميل الصور",
 "MainTextButton" : "تحديث",
-"Cancelable": "false",
+"Cancelable": "true",
 "CancelButtonText": "الغاء",
 "DownloadLink": "https://www.youtube.com/@jen.infotechr",
 "Version": "1.2"
