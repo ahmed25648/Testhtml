@@ -1,1 +1,12 @@
+{
 
+"Visibility": "VISIBLE",
+"Title": "Test",
+"Description": "Test Message",
+"MainTextButton" : "Update",
+"Cancelable": "false",
+"CancelButtonText": "Cancel",
+"DownloadLink": "ht tps : //google . com",
+"Version": "1.1"
+
+}
