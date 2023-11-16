@@ -2,10 +2,13 @@
 
 "Visibility": "VISIBLE",
 "Title": "Test",
-"Description": "Test Message",
-"MainTextButton" : "Update",
+"Description": "مرحبا بكم
+1- انشاء ديالوج
+2- حفظ الخطوط
+3- تحميل الصور",
+"MainTextButton" : "تحديث",
 "Cancelable": "false",
-"CancelButtonText": "Cancel",
+"CancelButtonText": "الغاء",
 "DownloadLink": "https://www.youtube.com/@jen.infotechr",
 "Version": "1.2"
 
