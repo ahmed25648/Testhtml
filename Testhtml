@@ -1,15 +1,20 @@
 {
-
-"Visibility": "VISIBLE",
-"Title": "Text style",
-"Description": "مرحبا بكم
-1- انشاء ديالوج
-2- حفظ الخطوط
-3- تحميل الصور",
-"MainTextButton" : "تحديث",
-"Cancelable": "true",
-"CancelButtonText": "الغاء",
-"DownloadLink": "https://www.youtube.com/@jen.infotechr",
-"Version": "1.2"
-
+  "enabled": true,
+  "title": "تنبيه جديد",
+  "message": "aaa",
+  "style": "inbox",
+"lines": ["رسالة ١", "رسالة ٢", "مرحبا ٣"],
+  "sound": true,
+  "vibrate": true,
+  "expires": "2025-05-01T12:00:00",
+  "image": "http://alo0osh-sy.yn.lt/images/-.jpg",
+  "actions": [
+    {
+      "title": "فتح",
+      "url": "https://example.com"
+    },
+    {
+      "title": "تجاهل"
+    }
+  ]
 }
